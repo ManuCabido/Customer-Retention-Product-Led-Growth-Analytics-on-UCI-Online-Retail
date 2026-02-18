@@ -195,4 +195,4 @@ Chen, D., Sain, S.L., and Guo, K. (2012). Data mining for the online retail indu
 
 ---
 
-*Built by [Your Name] · Open to feedback and collaboration*
+*Built by Manuel Cabido · Open to feedback and collaboration*
